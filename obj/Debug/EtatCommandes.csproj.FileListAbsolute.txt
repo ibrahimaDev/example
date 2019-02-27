@@ -1,0 +1,11 @@
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.exe.config
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.exe
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\bin\Debug\EtatCommandes.pdb
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\bin\Debug\MySql.Data.dll
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\bin\Debug\Google.Protobuf.dll
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\bin\Debug\MySql.Data.xml
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.csprojAssemblyReference.cache
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.csproj.CoreCompileInputs.cache
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.csproj.CopyComplete
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.exe
+c:\users\diallo\source\repos\EtatCommandes\EtatCommandes\obj\Debug\EtatCommandes.pdb
